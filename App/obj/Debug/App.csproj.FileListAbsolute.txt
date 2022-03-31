@@ -1,0 +1,435 @@
+C:\Users\trung\source\repos\App\App\bin\Debug\App.exe.config
+C:\Users\trung\source\repos\App\App\bin\Debug\App.exe
+C:\Users\trung\source\repos\App\App\bin\Debug\App.pdb
+C:\Users\trung\source\repos\App\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\trung\source\repos\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\trung\source\repos\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\App\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\trung\source\repos\App\App\obj\Debug\App.exe
+C:\Users\trung\source\repos\App\App\obj\Debug\App.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\mongocrypt.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Crc32C.NET.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\DnsClient.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\ExtentReports.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\MongoDB.Bson.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\MongoDB.Driver.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\SharpCompress.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Snappy.NET.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Buffers.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Collections.Immutable.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.IO.Pipelines.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Memory.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Security.AccessControl.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Security.Permissions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Crc32C.NET.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\DnsClient.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\MongoDB.Bson.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\MongoDB.Driver.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Snappy.NET.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Buffers.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Collections.Immutable.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.IO.Pipelines.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Memory.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Controller.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\MODEL.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Controller.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\MODEL.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Imaging.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.MachineLearning.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Math.Core.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Statistics.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Vision.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.CV.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.CV.ML.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.CV.UI.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Math.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.Util.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Imaging.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Imaging.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.MachineLearning.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Math.Core.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Math.Core.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Statistics.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Statistics.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Vision.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Vision.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.CV.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.CV.UI.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Math.pdb
+C:\Users\trung\source\repos\App\App\bin\Debug\Accord.Math.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\Emgu.Util.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\AForge.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\AForge.Video.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\trung\source\repos\App\App\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\App\App\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\App\App\obj\Debug\App.Owner.resources
+C:\Users\trung\source\repos\App\App\obj\Debug\App.Apartment.resources
+C:\Users\trung\source\repos\App\App\obj\Debug\App.welcome.resources
+C:\Users\trung\source\repos\App\App\obj\Debug\App.Mainform.resources
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\mongocrypt.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\App.exe.config
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\App.exe
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\App.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Controller.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Crc32C.NET.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\DnsClient.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\DTO.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\ExtentReports.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MongoDB.Bson.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MongoDB.Driver.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\SharpCompress.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Snappy.NET.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.AppContext.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Buffers.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Collections.Immutable.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Console.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.IO.Compression.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.IO.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.IO.FileSystem.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.IO.Pipelines.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Linq.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Linq.Expressions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Memory.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Reflection.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Runtime.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.AccessControl.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.Permissions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Threading.Thread.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.ValueTuple.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Xml.XPath.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MODEL.dll
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Controller.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\DTO.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Imaging.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Imaging.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.MachineLearning.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.MachineLearning.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Math.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Math.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Math.Core.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Math.Core.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Statistics.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Statistics.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Vision.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Accord.Vision.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\AForge.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\AForge.Video.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Crc32C.NET.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\DnsClient.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Emgu.CV.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Emgu.CV.UI.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Emgu.Util.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MongoDB.Bson.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MongoDB.Driver.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\Snappy.NET.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Buffers.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Collections.Immutable.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.IO.Pipelines.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Memory.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\trung\Desktop\OLD\New folder\App\App\bin\Debug\MODEL.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.Mainform.resources
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.welcome.resources
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.Apartment.resources
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.Owner.resources
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.Properties.Resources.resources
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.csproj.CopyComplete
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.exe
+C:\Users\trung\Desktop\OLD\New folder\App\App\obj\Debug\App.pdb

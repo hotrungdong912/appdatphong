@@ -1,0 +1,36 @@
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\bin\Debug\MODEL.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\bin\Debug\MODEL.pdb
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\obj\Debug\MODEL.csproj.CopyComplete
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\obj\Debug\MODEL.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\MODEL\obj\Debug\MODEL.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\bin\Debug\MODEL.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\bin\Debug\MODEL.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\obj\Debug\MODEL.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\obj\Debug\MODEL.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\MODEL\obj\Debug\MODEL.csproj.CopyComplete
+C:\Users\trung\source\repos\App\MODEL\bin\Debug\MODEL.dll
+C:\Users\trung\source\repos\App\MODEL\bin\Debug\MODEL.pdb
+C:\Users\trung\source\repos\App\MODEL\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\App\MODEL\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\App\MODEL\obj\Debug\MODEL.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\App\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\App\MODEL\obj\Debug\MODEL.csproj.CopyComplete
+C:\Users\trung\source\repos\App\MODEL\obj\Debug\MODEL.dll
+C:\Users\trung\source\repos\App\MODEL\obj\Debug\MODEL.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\bin\Debug\MODEL.dll
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\bin\Debug\MODEL.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\bin\Debug\DTO.dll
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\bin\Debug\DTO.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\obj\Debug\MODEL.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\obj\Debug\MODEL.csproj.CopyComplete
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\obj\Debug\MODEL.dll
+C:\Users\trung\Desktop\OLD\New folder\App\MODEL\obj\Debug\MODEL.pdb

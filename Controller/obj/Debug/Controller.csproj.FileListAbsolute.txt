@@ -1,0 +1,44 @@
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\bin\Debug\Controller.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\bin\Debug\Controller.pdb
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\bin\Debug\MODEL.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\bin\Debug\MODEL.pdb
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\obj\Debug\Controller.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\Controller\obj\Debug\Controller.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\bin\Debug\Controller.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\bin\Debug\Controller.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\bin\Debug\MODEL.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\bin\Debug\MODEL.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\obj\Debug\Controller.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\obj\Debug\Controller.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\Controller\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\App\Controller\bin\Debug\Controller.dll
+C:\Users\trung\source\repos\App\Controller\bin\Debug\Controller.pdb
+C:\Users\trung\source\repos\App\Controller\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\App\Controller\bin\Debug\MODEL.dll
+C:\Users\trung\source\repos\App\Controller\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\App\Controller\bin\Debug\MODEL.pdb
+C:\Users\trung\source\repos\App\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\App\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\App\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\trung\source\repos\App\Controller\obj\Debug\Controller.dll
+C:\Users\trung\source\repos\App\Controller\obj\Debug\Controller.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\bin\Debug\Controller.dll
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\bin\Debug\Controller.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\bin\Debug\DTO.dll
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\bin\Debug\MODEL.dll
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\bin\Debug\DTO.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\bin\Debug\MODEL.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\obj\Debug\Controller.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\obj\Debug\Controller.csproj.CopyComplete
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\obj\Debug\Controller.dll
+C:\Users\trung\Desktop\OLD\New folder\App\Controller\obj\Debug\Controller.pdb

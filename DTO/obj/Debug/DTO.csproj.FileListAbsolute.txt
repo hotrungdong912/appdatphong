@@ -1,0 +1,23 @@
+C:\Users\trung\source\repos\WindowsFormsApp2\DTO\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\DTO\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\WindowsFormsApp2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\WindowsFormsApp2\DTO\obj\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp2\DTO\obj\Debug\DTO.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\DTO\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\DTO\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\WindowsFormsApp3\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\WindowsFormsApp3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\WindowsFormsApp3\DTO\obj\Debug\DTO.dll
+C:\Users\trung\source\repos\WindowsFormsApp3\DTO\obj\Debug\DTO.pdb
+C:\Users\trung\source\repos\App\DTO\bin\Debug\DTO.dll
+C:\Users\trung\source\repos\App\DTO\bin\Debug\DTO.pdb
+C:\Users\trung\source\repos\App\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\trung\source\repos\App\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\trung\source\repos\App\DTO\obj\Debug\DTO.dll
+C:\Users\trung\source\repos\App\DTO\obj\Debug\DTO.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\DTO\bin\Debug\DTO.dll
+C:\Users\trung\Desktop\OLD\New folder\App\DTO\bin\Debug\DTO.pdb
+C:\Users\trung\Desktop\OLD\New folder\App\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\trung\Desktop\OLD\New folder\App\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\OLD\New folder\App\DTO\obj\Debug\DTO.dll
+C:\Users\trung\Desktop\OLD\New folder\App\DTO\obj\Debug\DTO.pdb
